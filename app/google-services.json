@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467013591316",
+    "project_id": "tgsp13pppb-firebasecrud",
+    "storage_bucket": "tgsp13pppb-firebasecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467013591316:android:7532c6e9a28b79b97e2201",
+        "android_client_info": {
+          "package_name": "com.example.tgsp13pppb_firebasecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz2hc3trZVIE-RJ5DLUzd4YM18A3u66r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
